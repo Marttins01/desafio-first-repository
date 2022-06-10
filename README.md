@@ -1,3 +1,3 @@
 # Desafio First Repository
-## Anotações de Comandos do git/github 
+## Anotações Importantes do git/github 
 Desafio para por em prática os conhecimentos voltados do Git/GitHub 
