@@ -1,0 +1,18 @@
+É importante ter a configuração do git com o email e nome,
+para isso vamos por o código no terminal bash do git
+
+Item 1
+git config --global user.email "nome@email.com com aspas ou sem"
+git config --global user.name "nome com aspas ou sem" 
+
+Caso queira trocar o email ou o nome basta seguir o item abaixo:
+
+Item 2
+git config --global --unset user.email
+git config --global --unset user.name
+
+Após esses comandos a configuração do nome e email será resetado
+tendo que usar os comandos novamente para o cadastro de nome e email conforme o item 1
+
+Para verificar como estão todas as configurações do meu git  
+usar git config --list
